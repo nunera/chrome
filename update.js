@@ -1,4 +1,4 @@
-var urlbarInput = document.getElementById("urlbar");
+/*var urlbarInput = document.getElementById("urlbar");
 urlbarInput.value = "";
 window.onload = async function () {
   async function checkSomething() {
@@ -29,3 +29,4 @@ window.onload = async function () {
   }, interval);
 };
 
+*/
