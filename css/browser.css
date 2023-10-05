@@ -1,5 +1,5 @@
 :root {
-  --light-browser-background: #232323;
+  --light-browser-background: #323232;
   --dark-browser-background: #323639;
   --light-addressbar-background: #111111;
   --dark-addressbar-background: #202124;
@@ -38,7 +38,7 @@ body {
 .browser-bar {
   align-items: center;
   background-color: var(--light-browser-background);
-  border-bottom: 1px solid #d4d4d4;
+  border-bottom: 1px solid #232323;
   display: flex;
   flex-wrap: nowrap;
   flex-flow: row;

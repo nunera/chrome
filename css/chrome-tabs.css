@@ -180,6 +180,7 @@
   border-top-right-radius: 8px;
   overflow: hidden;
   pointer-events: all;
+  background: #232323;
 }
 
 .chrome-tabs .chrome-tab[is-mini] .chrome-tab-content {
@@ -332,7 +333,7 @@
   height: 4px;
   left: 0;
   width: 100%;
-  background: #fff;
+  background: #323232;
   z-index: 10;
 }
 
