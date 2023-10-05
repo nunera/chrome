@@ -146,7 +146,7 @@
 }
 
 .chrome-tabs .chrome-tab[active] .chrome-tab-background > svg .chrome-tab-geometry {
-  fill: #fff;
+  fill: #323232;
 }
 
 .chrome-tabs .chrome-tab:not([active]) .chrome-tab-background {
